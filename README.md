@@ -1,16 +1,17 @@
-### Hi there 👋
+![](http://i.piccy.info/i9/9cf5c9d85c5f5dab632be76321d63d47/1597406161/233324/1392090/banner.png)
 
-<!--
-**etolstoy/etolstoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## More about me
+```kotlin
+val etolstoy = developer {
+    about {
+        name = "Egor Tolstoy"
+        company = JetBrains
+        role = Product_Manager
+    }
+    tech("VIPER", "Kotlin", "Ruby", "KMM")
+    links {
+        twitter = "twitter.com/igrekde"
+        website = "etolstoy.com"
+    }
+}
+```
