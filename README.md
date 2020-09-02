@@ -1,4 +1,4 @@
-![](http://i.piccy.info/i9/9cf5c9d85c5f5dab632be76321d63d47/1597406161/233324/1392090/banner.png)
+![](http://i.piccy.info/i9/44d71621a241b0b2435f25c07b3cd035/1599074329/131246/1392090/94452download.png)
 
 ## More about me
 ```kotlin
