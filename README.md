@@ -1,6 +1,6 @@
 ![Egor Banner](https://raw.github.com/etolstoy/etolstoy/master/github.png)
 
-## <img width="45" alt="about" src=(https://raw.github.com/etolstoy/etolstoy/master/about.png)> More about me
+## <img width="45" alt="about" src=https://raw.github.com/etolstoy/etolstoy/master/about.png> More about me
 ```kotlin
 val etolstoy = developer {
     about {
