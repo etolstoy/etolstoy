@@ -8,7 +8,7 @@ val etolstoy = developer {
         company = JetBrains
         role = Product_Manager
     }
-    tech("Kotlin", "Objective-C", "KMM")
+    tech("Kotlin", "Objective-C", "KMM", "VIPER")
     links {
         twitter = "igrekde"
         website = "etolstoy.com"
